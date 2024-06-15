@@ -22,7 +22,7 @@ class Model(object):
         return response.choices[0].message.content
 
 if __name__ == '__main__':
-    token = "sk-kzRFpSyfMV1QlDvw9013901b3cF34cB1B538F134524101A0"
+    token = ""
     model = "gpt-4-turbo"
 
     A = Model()
