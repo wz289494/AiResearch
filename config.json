@@ -1,5 +1,5 @@
 {
-    "token": "sk-kzRFpSyfMV1QlDvw9013901b3cF34cB1B538F134524101A0",
+    "token": "",
     "modeluse": "gpt-4-turbo",
     "requirements": "将谣言内容编码，主要有以下四类，为我根据事件话语编码\n疫情形势、生活安排、政务管理、社会问题",
     "target_format": "编码结果",
