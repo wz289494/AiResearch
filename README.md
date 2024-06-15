@@ -40,4 +40,4 @@ https://platform.openai.com/docs/overview
 
 六、实例效果展示
 
-[AiResearch演示视频.mp4](AiResearch演示视频.mp4)
+https://github.com/wz289494/AiResearch/assets/151500660/c8b0ab80-6835-4d82-b34f-d4b4c58f310f
